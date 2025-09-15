@@ -20,10 +20,10 @@ export default function Home() {
               Who We Are
             </h2>
             <p className="font-semibold mb-4 text-gray-800">
-              The "Paavai Foundation": Empowering Lives Since 2021
+              The "WRRS Foundation": Empowering Lives Since 2021
             </p>
             <p className="text-gray-700 leading-relaxed mb-4 text-justify">
-              In 2021, Paavai was a small space for some young personals to meet,
+              In 2021, WRRS was a small space for some young personals to meet,
               greet, and spread the happiest moments with their communities. The
               team developed into a responsible outreach team that started to
               consider the needs of communities and act accordingly.
@@ -31,8 +31,8 @@ export default function Home() {
             <p className="text-gray-700 leading-relaxed mb-4 text-justify">
               After two years of journeying with pure human communities,
               addressing their needs through many outreach programs and
-              partnerships, the team took Paavai to the next level of being a
-              foundation, which can lead Paavai to be more professional with the
+              partnerships, the team took WRRS to the next level of being a
+              foundation, which can lead WRRS to be more professional with the
               participation of many supporters.
             </p>
             <button className="mt-4 bg-[#BC1EB0] text-white px-6 py-2 rounded-lg shadow hover:bg-[#A21A9A] transition">
@@ -43,7 +43,7 @@ export default function Home() {
           <div className="flex justify-center md:justify-end relative">
             <img
               src="https://placehold.co/300x200?text=Image+1"
-              alt="Paavai Team"
+              alt="WRRS Team"
               className="w-96 md:w-[400px] h-76 md:h-[300px] object-cover rounded-lg border-2 border-[#BC1EB0] shadow-md"
             />
           </div>
@@ -64,7 +64,7 @@ export default function Home() {
               Our Mission is to Provide
             </h2>
             <p className="text-gray-700 leading-relaxed mb-6">
-              The primary mission of PAAVAI Foundation is to foster women's
+              The primary mission of WRRS Foundation is to foster women's
               empowerment by providing them with the necessary tools,
               opportunities, and support to lead fulfilling lives, both personally
               and professionally. The foundation seeks to address gender
