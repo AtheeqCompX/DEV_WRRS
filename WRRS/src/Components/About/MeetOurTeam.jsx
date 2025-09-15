@@ -121,7 +121,7 @@ export default function Team() {
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-12">
             <h1 className="text-4xl md:text-5xl font-bold text-[#BC1EB0] leading-tight">
-              OUR Members
+              OUR MEMBERS
             </h1>
             <div className="w-20 h-px bg-[#F8F7FC] mx-auto mt-6"></div>
           </div>
