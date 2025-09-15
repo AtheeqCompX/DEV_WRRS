@@ -5,15 +5,15 @@ const DailyBlogsCarousel = () => {
   const [forceUpdate, setForceUpdate] = useState(false);
 
   const blogs = [
-    { id: 1, title: "Empowering Young Minds with", subtitle: "Paavai Foundation", date: "2025-08-14", image: "https://placehold.co/320x200/9d178c/ffffff?text=Event+1" },
-    { id: 2, title: "Caring for Mothers, Nurturing", subtitle: "Paavai Foundation", date: "2025-08-14", image: "https://placehold.co/320x200/9d178c/ffffff?text=Event+2" },
-    { id: 3, title: "Special & Normal Children", subtitle: "Paavai Foundation", date: "2025-08-22", image: "https://placehold.co/320x200/9d178c/ffffff?text=Event+3" },
-    { id: 4, title: "Education for All: Rural Outreach", subtitle: "Paavai Foundation", date: "2025-08-15", image: "https://placehold.co/320x200/9d178c/ffffff?text=Event+4" },
-    { id: 5, title: "Building Homes for the Needy", subtitle: "Paavai Foundation", date: "2025-08-16", image: "https://placehold.co/320x200/9d178c/ffffff?text=Event+5" },
-    { id: 6, title: "Health Camps Across Villages", subtitle: "Paavai Foundation", date: "2025-08-17", image: "https://placehold.co/320x200/9d178c/ffffff?text=Event+6" },
-    { id: 7, title: "Women Empowerment Workshop", subtitle: "Paavai Foundation", date: "2025-08-18", image: "https://placehold.co/320x200/9d178c/ffffff?text=Event+7" },
-    { id: 8, title: "Clean Water Initiative", subtitle: "Paavai Foundation", date: "2025-08-19", image: "https://placehold.co/320x200/9d178c/ffffff?text=Event+8" },
-    { id: 9, title: "Tree Plantation Drive", subtitle: "Paavai Foundation", date: "2025-08-20", image: "https://placehold.co/320x200/9d178c/ffffff?text=Event+9" },
+    { id: 1, title: "Empowering Young Minds with", subtitle: "WRRS Foundation", date: "2025-08-14", image: "https://placehold.co/320x200/9d178c/ffffff?text=Event+1" },
+    { id: 2, title: "Caring for Mothers, Nurturing", subtitle: "WRRS Foundation", date: "2025-08-14", image: "https://placehold.co/320x200/9d178c/ffffff?text=Event+2" },
+    { id: 3, title: "Special & Normal Children", subtitle: "WRRS Foundation", date: "2025-08-22", image: "https://placehold.co/320x200/9d178c/ffffff?text=Event+3" },
+    { id: 4, title: "Education for All: Rural Outreach", subtitle: "WRRS Foundation", date: "2025-08-15", image: "https://placehold.co/320x200/9d178c/ffffff?text=Event+4" },
+    { id: 5, title: "Building Homes for the Needy", subtitle: "WRRS Foundation", date: "2025-08-16", image: "https://placehold.co/320x200/9d178c/ffffff?text=Event+5" },
+    { id: 6, title: "Health Camps Across Villages", subtitle: "WRRS Foundation", date: "2025-08-17", image: "https://placehold.co/320x200/9d178c/ffffff?text=Event+6" },
+    { id: 7, title: "Women Empowerment Workshop", subtitle: "WRRS Foundation", date: "2025-08-18", image: "https://placehold.co/320x200/9d178c/ffffff?text=Event+7" },
+    { id: 8, title: "Clean Water Initiative", subtitle: "WRRS Foundation", date: "2025-08-19", image: "https://placehold.co/320x200/9d178c/ffffff?text=Event+8" },
+    { id: 9, title: "Tree Plantation Drive", subtitle: "WRRS Foundation", date: "2025-08-20", image: "https://placehold.co/320x200/9d178c/ffffff?text=Event+9" },
   ];
 
   useEffect(() => {
