@@ -1,4 +1,4 @@
-import herobg from '../../Assets/Home/home-bg.mp4';
+import herobg from '../../Assets/Home/home-bg.MP4';
 
 
 export default function Homehero() {
